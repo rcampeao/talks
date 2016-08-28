@@ -1,4 +1,4 @@
-Simplicity in Go
+Principles of Good Software Design
 24 August 2016
 
 Ramit Surana
@@ -8,7 +8,24 @@ ramitsurana@gmail.com
 * Agenda
 
 - Basics
+- Refactoring
+- Simplicity
+- Dependencyless
+- Summary
  
 * Simplicity
 
+* Simplicity 
+
 - The bigger gap  is a lack of understanding of the problem domain. Tools will only get one so far. If I am unable to break up a problem into individual components - no matter what language I throw at it, it will always be a pain.
+
+* Refactoring
+
+* Refactoring legacy code
+
+- Changing code is a typical process
+- Practices innvolved to be considered TDD,BDD
+
+* Summary
+
+
